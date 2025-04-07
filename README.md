@@ -16,3 +16,12 @@ This repo contains the script, tips, tricks and links about how to make presenta
 TBA
 
 
+
+
+# PDF tooling
+
+TBA
+
+
+
+
