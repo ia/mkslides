@@ -20,7 +20,10 @@ TBA
 
 ## PDF tooling
 
-TBA
+### split pdf file into files per page
+```
+$ pdfseparate  input.pdf  input_page_%d.pdf
+```
 
 
 
