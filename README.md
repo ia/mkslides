@@ -11,14 +11,14 @@ This repo contains the script, tips, tricks and links about how to make presenta
 
 
 
-# Basics
+## Basics
 
 TBA
 
 
 
 
-# PDF tooling
+## PDF tooling
 
 TBA
 
